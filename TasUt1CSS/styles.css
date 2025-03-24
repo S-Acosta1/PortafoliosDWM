@@ -1,0 +1,159 @@
+/*h1 
+{   
+    color : blue;
+    height: 32px;
+}
+.special{
+    color : white;
+    background-color: red;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+a:link
+{
+    color: aqua;
+    font-weight: bold;
+}
+a:visited
+{
+    color: burlywood;
+}
+a:hover
+{
+    text-decoration: none;
+    text-transform: capitalize;
+}*/
+
+/* --------------- Aqui termina la clase para el ta 10 ---------------*/
+
+
+/*
+.impar
+{
+background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#two
+{
+    color: blue;
+    font-size: 36px;
+
+}
+#tree
+{
+    font-size: 24px;
+}
+#four
+{
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+}
+*/
+
+/* --------------- Aqui termina la clase para el ta 11 ---------------*/
+
+/*
+
+body button
+{
+    color: white;
+    font-size: 28px;
+    font-family: helvetica, times new roman, sans-serif;
+    background-color: black
+}
+
+button + button
+{
+    color: black;
+    background-color: yellow;
+}
+
+*/
+
+/* --------------- Aqui termina la clase para el ta 12 ---------------*/
+
+
+/*
+.avatar-proportioned
+{
+width: 300px;
+}
+.avatar-distorted
+{
+    width: 200px;
+    height: 400px;
+}
+.original-proportioned
+{
+    width: 300px;
+}
+
+.original-distorted
+{
+    width: 200px;
+    height: 400px;
+}
+
+*/
+
+/* --------------- Aqui termina la clase para el ta 13 ---------------*/
+
+/*
+
+div p
+{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+*/
+
+/* --------------- Aqui termina la clase para el ta 14 ---------------*/
+
+/*
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+   .para,
+  .small-para {
+    color: hsl(0, 0%, 0%);
+    font-weight: 800;
+  }
+  .small-para {
+    font-size: 14px;
+    font-weight: 800;
+  }
+   .para {
+    font-size: 22px;
+  }
+  .button {
+      background-color: rgb(255, 255, 255);
+      color: rgb(0, 0, 0);
+      font-size: 20px;
+    }
+    .child {
+        color: rgb(0, 0, 0);
+        font-weight: 800;
+        font-size: 14px;
+    }
+    
+    div.text {
+        color: rgb(0, 0, 0);
+        font-size: 22px;
+        font-weight: 100;
+    }
+    #confirm-button {
+     background: green;
+     color: white;
+     font-weight: bold;
+   } 
+   
+*/
+
+/* --------------- Aqui termina la clase para el ta 15 ---------------*/
